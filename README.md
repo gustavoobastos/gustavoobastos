@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Chef Mio Delivery
 - 🌱 I’m work with .NET, ASP.NET Core
 
 #### Follow me on my social networks:
