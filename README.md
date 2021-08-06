@@ -1,5 +1,5 @@
 ### Hi there 👋! Welcome to my profile!
-
+### I'm Gustavo, Senior Software Engineer, Enthusiastic in the search for challenges, always seeking to improve knowledge and improve good practices at work.
 <!--
 **gustavoobastos/gustavoobastos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
